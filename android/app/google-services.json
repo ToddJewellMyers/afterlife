@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804913805319",
+    "project_id": "afterlife-7c741",
+    "storage_bucket": "afterlife-7c741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804913805319:android:25dd4c0d3219f6dcb112a2",
+        "android_client_info": {
+          "package_name": "com.anonymous.afterlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804913805319-pq0c6t8je10q91eu6vcq1miuumka4p1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLMUx06Gq2I0Th1Csm7WKxKCfgScW3mbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804913805319-pq0c6t8je10q91eu6vcq1miuumka4p1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

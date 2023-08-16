@@ -1,4 +1,4 @@
-package com.afterlife;
+package com.anonymous.afterlife;
 
 import android.os.Build;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.afterlife;
+package com.anonymous.afterlife;
 
 import android.app.Application;
 import android.content.res.Configuration;
